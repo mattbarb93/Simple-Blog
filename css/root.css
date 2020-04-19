@@ -1,0 +1,15 @@
+:root {
+    --color-green: #17ff42;
+    --color-green-light: #6cff87;
+    --color-green-dark: #00b021;
+    --color-blue: #2f90c2;
+    --color-blue-light: #6bb5db;
+    --color-blue-dark: #1e5d7e;
+    --color-orange: #ff6b06;
+    --color-orange-light: #ff7f28;
+    --color-orange-dark: #d25500;
+    --color-grey: #6f704f;
+    --color-grey-light: #b6b6b6;
+    --color-grey-dark: #343425;
+    --color-white: #f6f6f6;
+}

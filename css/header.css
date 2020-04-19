@@ -1,0 +1,14 @@
+header {
+    height: 10vh;
+    background-image: linear-gradient(to right, var(--color-green-dark), var(--color-blue-dark));
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.blog-logo {
+    padding-left: 5vh;
+    color: var(--color-white);
+    font-size: 1.6em;
+    text-decoration: none;
+}
